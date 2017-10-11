@@ -1,13 +1,28 @@
 # Salford Computing Society Project Euler solutions
 
-Pull requests are welcome!
+This is the Project Euler repository for The University of Salford Computing Society. The aim of this repo is to help familiarise people with Git and GitHub as well as further people's programming skill set. Pull requests are accepted by known members of the society - I'm terrible with names, so don't be offended if I need to double check!
 
-## Lanugages
+The society have a written git and GitHub tutorial [here](https://medium.com/@Delphboy/computing-society-tutorial-getting-started-with-git-and-github-73a89b42e5e7)
+
+# Hacktoberfest
+Sign up to Hacktoberfest [here](https://hacktoberfest.digitalocean.com/)
+
+If you want your T-Shirt, sign up to Hacktoberfest BEFORE submitting your pull requests or they won't count!
+
+# Submission
+Fork this repo to your own GitHub account and start working on your solutions. A solultion to problem 1 has been included as an example to show how code should be submitted. We only need the file with the code (.java or .cs etc), we don't need the whole project solution that goes with it.
+
+# Lanugages Included so Far
 - Java
+- C#
+
+You're more than welcome to add more!
 
 ## [Challenges](https://projecteuler.net/archives)
 
-### 1
+**Don't worry if you get stuck on a problem, just come and ask someone at the society for help! You're welcome to ask for help anytime you want, _you don't have to wait until Wednesday!_ **
+
+### 1 - Completed as a demo
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  Find the sum of all the multiples of 3 or 5 below 1000.
 
 ### 2
